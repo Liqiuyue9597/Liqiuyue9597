@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Liqiuyue9597
-- 👀 I’m a Front-End Engineer.
-- 🌱 I’m currently learning some Back-End knowledge
+- 👋 Hi, I’m liqiuyue.
+- 👀 I’m a front-end Engineer.
+- 🌱 I’m currently learning some back-end knowledge
 - 💞️ I work on WeChat in GuangZhou 
-- 📫 How to reach me ...
+
+
 
 <!---
 Liqiuyue9597/Liqiuyue9597 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
