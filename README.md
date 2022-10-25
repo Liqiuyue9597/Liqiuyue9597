@@ -1,7 +1,7 @@
 - 👋 Hi, I’m liqiuyue.
 - 👀 I’m a front-end Engineer.
-- 🌱 I’m currently learning some back-end knowledge
-- 💞️ I work on WeChat in GuangZhou 
+- 🌱 I’m currently learning some back-end knowledge.
+- 💞️ I work on WeChat in GuangZhou.
 
 
 
