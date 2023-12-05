@@ -1,7 +1,7 @@
-- 👋 Hi, I’m liqiuyue.
+- 👋 Hi, My name is liqiuyue.
 - 👀 I’m a front-end Engineer.
-- 🌱 I’m currently learning some back-end knowledge.
-- 💞️ I work on WeChat in GuangZhou.
+- 🌱 I’m currently expending my skills into Client(iOS/Flutter) development.
+- 💞️ I work at WeChat in GuangZhou.
 
 
 
